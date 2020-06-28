@@ -1,0 +1,39 @@
+.btCard {
+  margin: 0px;
+  padding: 0;
+  border: 0px solid black;
+  background: none;
+  cursor: pointer;
+}
+
+.cards {
+  border: 0px solid firebrick;      
+  display: flex;  
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%
+}
+
+.cards__list {      
+  border: 0px solid blue;  
+  display: flex;      
+  align-items: center;
+  justify-content: center;    
+  flex-wrap: wrap;
+  list-style: none;   
+  padding: 10px 0;
+  margin: 0;
+  height: 100%;
+}
+
+.cards__item {
+  border: 0px solid tomato;    
+}
+
+.cards__image {  
+  width: 135px;     
+  border: 0px solid cornflowerblue;
+  margin: 0px;    
+}
+

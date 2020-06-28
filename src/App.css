@@ -1,0 +1,47 @@
+* { 
+  margin: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+html {
+  border: 0px solid tomato;
+  height: 100vh;  
+}
+
+img {
+  max-width: 1000px;  
+}
+
+body {
+  border: 0px solid green;   
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  
+  background-size: cover;
+  justify-content: center;
+}
+
+.container {       
+  border: 15px ridge gold;      
+  align-items: center;
+  justify-content: center;  
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.7);
+  height: 620px;
+  width: 870px;
+  box-shadow: 0px 0px 20px 5px rgba(0, 0, 0, 0.5);
+  
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
