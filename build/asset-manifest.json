@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.145b753f.chunk.css",
+    "main.js": "/static/js/main.fd1577ab.chunk.js",
+    "main.js.map": "/static/js/main.fd1577ab.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.40d72249.js",
+    "runtime-main.js.map": "/static/js/runtime-main.40d72249.js.map",
+    "static/js/2.5028e1ae.chunk.js": "/static/js/2.5028e1ae.chunk.js",
+    "static/js/2.5028e1ae.chunk.js.map": "/static/js/2.5028e1ae.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bcfe76de2adab2fc3293b412d2807d2a.js": "/precache-manifest.bcfe76de2adab2fc3293b412d2807d2a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.145b753f.chunk.css.map": "/static/css/main.145b753f.chunk.css.map",
+    "static/js/2.5028e1ae.chunk.js.LICENSE.txt": "/static/js/2.5028e1ae.chunk.js.LICENSE.txt",
+    "static/media/loading.gif": "/static/media/loading.c0814bd5.gif",
+    "static/media/logo_hearthstone.png": "/static/media/logo_hearthstone.09742d6d.png",
+    "static/media/poster1.jpg": "/static/media/poster1.75fa7662.jpg",
+    "static/media/poster2.jpg": "/static/media/poster2.dd39ba9d.jpg",
+    "static/media/poster3.jpg": "/static/media/poster3.03de35aa.jpg",
+    "static/media/poster4.jpg": "/static/media/poster4.eba7ec5b.jpg",
+    "static/media/poster5.jpg": "/static/media/poster5.09cae375.jpg",
+    "static/media/poster6.jpg": "/static/media/poster6.6ff0c46a.jpg",
+    "static/media/poster7.jpg": "/static/media/poster7.1b2c1f8a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40d72249.js",
+    "static/js/2.5028e1ae.chunk.js",
+    "static/css/main.145b753f.chunk.css",
+    "static/js/main.fd1577ab.chunk.js"
+  ]
+}
