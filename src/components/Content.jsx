@@ -49,12 +49,8 @@ export default function Content() {
   },[])
 
   function handleStart() {    
-    setShowButtonStart(false)     
-    
     console.log(cards)
-    setCardBlocked(cardsFlipped)
-
-
+    setShowButtonStart(false)    
     setCardsScreen(cards)
 
     setTimeout(() => {

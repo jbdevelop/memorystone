@@ -1,3 +1,3 @@
-const access_token = "MHvznftSYyJ7jsSR6QUi9eZU5C3TAyl3"
+const access_token = "USZq5HsRuTpQKuXFJdtnWSvPsrRTak6fS8"
 
 export default access_token
