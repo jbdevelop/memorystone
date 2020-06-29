@@ -31,12 +31,12 @@ body {
   justify-content: center;  
   border-radius: 5px;
   background: rgba(0, 0, 0, 0.7);
-  height: 620px;
-  width: 870px;
+  height: 570px;
+  width: 790px;
   box-shadow: 0px 0px 20px 5px rgba(0, 0, 0, 0.5);
   
 }
-
+/* 
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -45,3 +45,4 @@ body {
     transform: rotate(360deg);
   }
 }
+ */
